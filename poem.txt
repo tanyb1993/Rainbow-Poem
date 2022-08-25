@@ -2,4 +2,5 @@ Rainbow
 blue
 yellow
 grey
+blue
 These are the colours of the rainbow.
