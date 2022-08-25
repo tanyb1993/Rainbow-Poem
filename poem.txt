@@ -2,6 +2,7 @@ Rainbow and the cheeseburger
 blue
 yellow
 grey
+orange
 blue
 These are the colours of the rainbow.
 And the cheeseburger.
